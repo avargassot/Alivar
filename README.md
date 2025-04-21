@@ -1,3 +1,5 @@
+![Naturaleza](images/paisaje.png)
+
 # Biography
 
 Hello, my name is Alicia Vargas. I studied computer engineering at the University of Santiago.
